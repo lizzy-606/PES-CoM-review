@@ -3,7 +3,7 @@
 Repozytorium zawiera niezależną analizę projektu **PES-CoM (Change of Mind Benchmark)** autorstwa Piotra Styły.
 
 **Projekt oryginalny:** https://github.com/PiotrStyla/PES-CoM/tree/v0.3-multiturn  
-**Recenzja:** lizzy-606
+**Recenzja:** lizzy-606 Elżbieta Dawidek 
 
 ---
 
